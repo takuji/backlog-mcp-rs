@@ -108,7 +108,7 @@ dependencies = [
 [[package]]
 name = "backlog-api-rs"
 version = "0.3.0"
-source = "git+ssh://git@github.com/takuji/backlog-api-rs.git#843cea859b2134450cb7b34b602245bccf5ea990"
+source = "git+https://github.com/takuji/backlog-api-rs.git#ee2ebf2a66ed82fb470699ab3ff3c686f3e2f057"
 dependencies = [
  "chrono",
  "futures-util",
